@@ -15,6 +15,9 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.IgnoreExtraProperties;
 import com.google.firebase.database.ValueEventListener;
 
+
+//이용 x 코드 참고만
+
 public class Chat1Activity extends AppCompatActivity {
     private static final String TAG = "Chat1Activity";
     //databaseReference 가져오기

@@ -10,8 +10,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FirebaseEx1"
-        tools:ignore="ExtraText">
-        //실행시 제일 먼저 실행되는 activity
+        android:usesCleartextTraffic="true"
+        tools:ignore="ExtraText"
+        >
         <activity android:name=".AppmainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +22,9 @@
         </activity>
         <activity android:name=".ViewuserinformActivity" />
         <activity android:name=".EnteruserinformActivity" />
-
+        <activity android:name=".AlarmActivity"
+            android:parentActivityName=".ViewuserinformActivity"/>
+        <activity android:name=".Findtheway" />
 
     </application>
 

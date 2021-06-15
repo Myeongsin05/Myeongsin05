@@ -8,7 +8,6 @@ import android.widget.Button;
 
 //어플의 첫번째 화면
 //프로젝트 이름이 메인
-//사용자가 주차 후에 다시 들어온거면 자신의 차 위치확인하는 액티비티로 연결
 //사용자가 처음 들어온거면 자신의 정보 입력하는 액티비티로 연결
 
 public class AppmainActivity extends AppCompatActivity {
