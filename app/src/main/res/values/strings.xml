@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firebaseEx1</string>
+    <string name="carNum">차 번호</string>
+    <string name="userName">이름</string>
+    <string name="updateUser">정보 등록</string>
+    <string name="title">사용자 정보 입력</string>
+    <string name="user_information">user information</string>
+    <string name="username">username</string>
+</resources>
