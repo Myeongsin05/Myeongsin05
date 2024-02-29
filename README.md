@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Myeongsin. I am preparing to be an webdeveloper!
+Welcome to My github
+
 <!--
 **Myeongsin05/Myeongsin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
